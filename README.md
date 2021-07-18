@@ -1,2 +1,2 @@
-# Kaan-ztekin-ZigZag-GameClone
+# Kaan-Oztekin-ZigZag-GameClone
 ZigZag Game Clone
