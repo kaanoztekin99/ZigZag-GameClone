@@ -1,4 +1,4 @@
-# 3D_Runner_MobileGame
+# ZigZag Game Clone
 ## Aim Of Project
 
 Developing ZigZag Game clone.
